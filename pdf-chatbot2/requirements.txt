@@ -1,7 +1,0 @@
-streamlit
-PyPDF2
-faiss-cpu
-langchain
-sentence-transformers
-google-generativeai
-python-dotenv
